@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/stanford-corenlp-4.5.7-models.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/ejml-core-0.39.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/ejml-ddense-0.39.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/ejml-simple-0.39.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/istack-commons-runtime-3.0.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/javax.activation-api-1.2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/javax.json.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/jaxb-api-2.4.0-b180830.0359.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/jaxb-impl-2.4.0-b180830.0438.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/joda-time.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/jollyday.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/protobuf-java-3.19.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/slf4j-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/slf4j-simple.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/stanford-corenlp-4.5.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/xom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/ejml-core-0.39-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/ejml-ddense-0.39-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/ejml-simple-0.39-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/istack-commons-runtime-3.0.7-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/javax.activation-api-1.2.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/javax.json-api-1.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/jaxb-api-2.4.0-b180830.0359-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/jaxb-impl-2.4.0-b180830.0438-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/joda-time-2.10.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/jollyday-0.4.9-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/stanford-corenlp-4.5.7-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/stanford-corenlp-4.5.7/xom-1.3.9-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MPJ_HOME$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MPJ_HOME$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
